@@ -51,3 +51,5 @@ tmp/
 
 # exclude saved oauth tokens
 oauth*_token.json
+
+/node_modules
