@@ -53,3 +53,5 @@ tmp/
 oauth*_token.json
 
 /node_modules
+
+/data
